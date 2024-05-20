@@ -25,3 +25,6 @@ https://docs.google.com/spreadsheets/d/1cpFH76NY7BjNNdskzk93NTCIBH8h4JwZgaJSDCZo
 | 4      | For music production, it is believed that using existing materials can achieve low-cost production. With the advent of convenient tools like AI image generation, the project aims to form experimental units.                  | Production Methods      |
 | 5      | The project name originates from an experience of being transferred to London at the age of 23 and staying at the Mandeville Hotel near Bond Street. British comedy, like those of Kin Tsune and Kazuki Kosakai, is seen as silly like "Austin Powers" or "Mr. Bean," while American jokes are understood to be punchy bad jokes. | Origin of Project Name  |
 | 6      | The name "Open Duck" is derived from the concepts of open knowledge, open science, and open design, with expectations for the future development of the character.                                                              | Concept and Expectations |
+
+respect bruna 
+![bruna](https://github.com/Kiara-Dev-Team/open-duck/assets/10541717/411e31d0-f687-4e51-993e-b6407094f29b)
